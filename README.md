@@ -1,4 +1,4 @@
-# piyush
+# pyush
 
 Building software, developer tools, and systems that solve real problems.
 
