@@ -41,8 +41,8 @@ An autonomous cloud software engineering agent that takes GitHub issues and work
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| [WorkVerse](https://github.com/wav-piyush/WorkVerse) | AI-native virtual headquarters for modern teams | TypeScript, React |
-| [DevForce](https://github.com/wav-piyush/DEVFORCES) | Competitive programming platform with asynchronous code judging and real-time leaderboards | TypeScript, Express, PostgreSQL, Redis |
+| [WorkVerse](https://github.com/wav-piyush/WorkVerse) | AI-native virtual headquarters for modern teams | TypeScript, WebRTC(mediasoup), WebSockets, MCP, Kubernetes, Helm, ArgoCD |
+| [DevForce](https://github.com/wav-piyush/DEVFORCES) | Competitive programming platform with asynchronous code judging and real-time leaderboards | TypeScript, Express, PostgreSQL, Redis, Redis streams |
 | [Audiyn](https://github.com/wav-piyush/Audiyn-music) | Real-time collaborative music rooms with synchronized playback and voting | Bun, TypeScript, WebSockets, Redis |
 
 ## Open Source
