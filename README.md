@@ -1,4 +1,4 @@
-# piyush
+# wvpyush
 
 > I build backend systems, developer tools, and autonomous agents. Interested in solving engineering problems through thoughtful architecture, reliable systems, and software that actually ships.
 
@@ -18,7 +18,7 @@ A local-first video editing workspace where an AI agent works directly inside yo
 - Local agent runtime with an extensible plugin architecture
 - Human-controlled, agent-assisted editing
 
-`Rust` `egui` `TypeScript` `Tauri`
+`Rust` `egui` `Python` `TypeScript` `Docker` `AWS` `Prometheus` `Grafana`
 
 </td>
 <td width="50%" valign="top">
@@ -41,50 +41,12 @@ An autonomous cloud software engineering agent that takes GitHub issues and work
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| [DevForce](https://github.com/wav-piyush/DEVFORCES) | Competitive programming platform with asynchronous code judging and real-time leaderboards | TypeScript, Express, PostgreSQL, Redis |
 | [WorkVerse](https://github.com/wav-piyush/WorkVerse) | AI-native virtual headquarters for modern teams | TypeScript, React |
+| [DevForce](https://github.com/wav-piyush/DEVFORCES) | Competitive programming platform with asynchronous code judging and real-time leaderboards | TypeScript, Express, PostgreSQL, Redis |
 | [Audiyn](https://github.com/wav-piyush/Audiyn-music) | Real-time collaborative music rooms with synchronized playback and voting | Bun, TypeScript, WebSockets, Redis |
 
 ## Open Source
 
 I enjoy working on real-world codebases, understanding existing architectures, and contributing improvements.
 
-- **Strapi** — Merged pull requests
-- **Lightdash** — Open-source contributions
-- **GrowthBook** — Open-source contributions
-
-## Engineering Interests
-
-- Backend architecture & distributed systems
-- Real-time systems and asynchronous processing
-- AI agents, tool execution & orchestration
-- Developer tooling and infrastructure
-- Open-source software
-
-## Technologies
-
-**Languages**
-
-`TypeScript` `JavaScript` `Rust` `Python`
-
-**Backend & Data**
-
-`Node.js` `Bun` `Express` `PostgreSQL` `Redis` `gRPC`
-
-**Infrastructure**
-
-`Docker` `Kubernetes` `AWS` `Prometheus` `Grafana`
-
-**Frontend & Desktop**
-
-`React` `Next.js` `Tailwind CSS` `Tauri` `egui`
-
----
-
-<p align="center">
-  Building things, breaking things, understanding why, and building them better.
-  <br/><br/>
-  <a href="https://github.com/wav-piyush">GitHub</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/7-Orbits">7.Orbits</a>
-</p>
+- **[Strapi](https://github.com/strapi/strapi/pulls?q=is%3Amerged+is%3Apr+author%3Awav-piyush)** | **[Lightdash](https://github.com/lightdash/lightdash/pulls?q=is%3Apr+author%3Awav-piyush)** | **[GrowthBook](https://github.com/growthbook/growthbook/pulls?q=is%3Apr+author%3Awav-piyush)** | **[sim](https://github.com/simstudioai/sim/pulls/wav-piyush)** | **[cinny](https://github.com/cinnyapp/cinny/pulls?q=is%3Apr+state%3Aclosed+author%3Awav-piyush)** | **[7.orbits](https://github.com/7-Orbits/splic.co/pulls?q=is%3Apr+state%3Aclosed+author%3Awav-piyush)**
